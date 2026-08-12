@@ -53,7 +53,7 @@ The example form collects three fields:
 * **Email**
 * **Message**
 
-![Google Form](screenshots/google-form.png)
+![Google Form](screenshots/google_form.png)
 
 ## Automation
 
